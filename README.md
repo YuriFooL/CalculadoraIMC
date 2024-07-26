@@ -1,4 +1,4 @@
-## 🚀 Linguagens de Programação
+## 🚀 Linguagens usadas
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
